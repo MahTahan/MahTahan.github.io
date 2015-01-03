@@ -1,0 +1,201 @@
+.version._6_sponsorships /* version checker */
+{
+	color: #00001E;
+	background-color: #F31AE2;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 719px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u2977
+{
+	z-index: 39;
+	width: 204px;
+	min-height: 58px;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 6px;
+}
+
+#menuu2981
+{
+	z-index: 2;
+	width: 402px;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 527px;
+}
+
+#u2982
+{
+	width: 78px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u2985
+{
+	width: 78px;
+	padding-bottom: 17px;
+}
+
+#u2985:hover
+{
+	margin: 0px;
+}
+
+#u2985:active
+{
+	margin: 0px;
+}
+
+#u2987
+{
+	height: 17px;
+	width: 78px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u3010
+{
+	width: 79px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 80px;
+}
+
+#u3011
+{
+	width: 79px;
+	padding-bottom: 17px;
+}
+
+#u2989
+{
+	width: 79px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 161px;
+}
+
+#u2990
+{
+	width: 79px;
+	padding-bottom: 17px;
+}
+
+#u2996
+{
+	width: 79px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 242px;
+}
+
+#u2997
+{
+	width: 79px;
+	padding-bottom: 17px;
+}
+
+#u3003
+{
+	width: 79px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 323px;
+}
+
+#u3004
+{
+	width: 79px;
+	padding-bottom: 17px;
+}
+
+#u2985.MuseMenuActive,#u3011.MuseMenuActive,#u2990.MuseMenuActive,#u2997.MuseMenuActive,#u3004.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u3013,#u2992,#u3000,#u3006
+{
+	height: 17px;
+	width: 79px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u2972
+{
+	z-index: 33;
+	padding-bottom: 16px;
+}
+
+#u2972_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u2973
+{
+	z-index: 40;
+	width: 105px;
+	min-height: 32px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 343px;
+}
+
+#u2979
+{
+	z-index: 34;
+	width: 369px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 474px;
+}
+
+#u2980-4
+{
+	z-index: 35;
+	margin-right: -10000px;
+}
+
+#u2972-bw
+{
+	z-index: 33;
+	margin-top: 643px;
+	height: 60px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -642px;
+}
+
